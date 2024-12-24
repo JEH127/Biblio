@@ -1,0 +1,5 @@
+# Ignorer les répertoires __pycache__ générés par Python
+**/__pycache__/
+
+# Ignorer les fichiers compilés Python
+*.py[cod]
